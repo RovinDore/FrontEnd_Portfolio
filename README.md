@@ -1,5 +1,5 @@
 # FrontEnd_Portfolio
-List of front end website worked on
+List of front end website developed
 
 <a href="http://tumanifesto2020.com/" target="_blank">Team Unity 2020 Election Manifesto</a>
 
