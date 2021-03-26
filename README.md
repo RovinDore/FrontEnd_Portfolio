@@ -1,2 +1,12 @@
 # FrontEnd_Portfolio
 List of front end website worked on
+
+<a href="http://tumanifesto2020.com/" target="_blank">Team Unity 2020 Election Manifesto</a>
+
+<a href="https://www.sknird.com/" target="_blank">St. Kitts Government Inland Revenue Department</a>
+
+<a href="http://liamuigahousing.com/" target="_blank">Liamuiga Housing</a>
+
+<a href="https://www.legal.gov.kn/" target="_blank">Ministry of Justice and Legal Affairs</a>
+
+<a href="https://www.thecable.net/" target="_blank">The Cable</a>
