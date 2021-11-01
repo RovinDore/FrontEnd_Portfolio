@@ -10,3 +10,7 @@ List of front end website developed
 <a href="https://www.legal.gov.kn/" target="_blank">Ministry of Justice and Legal Affairs</a>
 
 <a href="https://www.thecable.net/" target="_blank">The Cable</a>
+
+<a href="https://www.sknird.com/" target="_blank">St. Kitts Inland Revenue Department</a>
+
+<a href="https://madebyopen.com/" target="_blank">OPEN Interactive</a>
